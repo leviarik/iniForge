@@ -65,7 +65,7 @@ Use this method if you are installing from a pre-built wheel file.
 ### Running from Source
 ```bash
 source ~/iniforge_env/bin/activate
-python iniforge.py &
+python iniforge_runner.py &
 ```
 
 ### Standard Execution
