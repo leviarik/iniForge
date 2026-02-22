@@ -2,6 +2,8 @@
 
 **iniForge** is a tool designed for precision management of bulk settings.
 
+<img src="screenshots/iniForge - look and layout.png" width="800">
+
 ## Description
 iniForge is a Python based configuration GUI tool, designed for managing large-scale .ini ecosystems.
 
