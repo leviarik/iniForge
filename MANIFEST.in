@@ -1,0 +1,6 @@
+include src/iniforge/images/*.png
+include src/iniforge/images/*.ico
+include src/iniforge/images/help/*.png
+include src/iniforge/config.ini
+include src/iniforge/help_content.html
+include src/iniforge/pkg_info.txt
