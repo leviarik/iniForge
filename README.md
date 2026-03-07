@@ -14,16 +14,30 @@ Key Features:
 - Multi-variable directory filtering
 - Meld-powered diff validation
 
-## License & Pricing
+---
 
-iniForge is **free for personal and educational use**. 
+## License & Commercial Use
 
-For professional and commercial use, a paid license is required:
-* **Small Team (1-3 users):** $300/year
-* **Enterprise (4+ users):** $300 + $79 per additional user/year
+**iniForge** is free for all internal use, but requires a paid license for commercial distribution.
 
-For commercial licensing inquiries, please contact **ariklevi@gmail.com**.
-See the [LICENSE](LICENSE) file for full details.
+### Free Internal Use
+Any individual, non-profit, or **commercial organization** may download and use iniForge **free of charge** for their own internal operations, development, and configuration management.
+
+### Paid Commercial Licensing
+A paid license and express written permission are **strictly required** if you intend to:
+* **Redistribute:** Include iniForge as part of a product, service, or software package you sell or distribute to others.
+* **Resell/Lease:** Sell access to the tool or rent it out as a service (SaaS).
+* **White-Label:** Modify and sell the tool under your own brand name.
+* **Commercial Integration:** Embed the tool's logic into a commercial offering for third parties.
+
+#### Commercial Rates for Redistribution:
+* **Base License:** $300 / year (covers initial integration/redistribution).
+* **Scalable Tier:** $79 / year per end-user/seat provided to your customers.
+
+For commercial redistribution inquiries, please contact: **ariklevi@gmail.com**
+*See the [LICENSE](LICENSE) file for the full legal terms.*
+
+---
 
 ## Installation
 
