@@ -1,39 +1,60 @@
-iniForge License Agreement
+iniForge Source Available License Agreement
 Copyright © 2026 Arik Levi. All rights reserved.
 
-1. OWNERSHIP & INTELLECTUAL PROPERTY
-iniForge (the "Software"), including all source code, documentation, and 
-original logic, is the sole intellectual property of Arik Levi ("Author").
+1. DEFINITIONS
+  "Software" means the iniForge software, including source code, documentation, and any binaries   or updates provided by the Author.
+  
+  "Internal Use" means the use of the Software by an individual or organization solely for their   own benefit, internal operations, or development within their own private infrastructure.
+  
+  "Commercial Distribution" means any act of making the Software available to third parties,
+  including but not limited to selling, leasing, sublicensing, or incorporating the Software
+  into a product or service offered to others for a fee or as part of a commercial engagement.
 
-2. PERMITTED USE
-The Author grants individuals and the community a free, non-exclusive license 
-to download, install, and use the Software for personal, educational, or 
-internal non-commercial purposes.
+2. GRANT OF LICENSE FOR INTERNAL USE
+  The Author hereby grants you a worldwide, royalty-free, non-exclusive license to:
+  • Download, install, and execute the Software for Internal Use only.
+  • Use the Software within a corporate, non-profit, or educational environment, provided 
+    the use remains internal to that specific organization.
 
-3. PROHIBITED ACTS
-The following actions are strictly prohibited without express written 
-permission from the Author:
-• Commercial Redistribution: You may not sell, lease, or include the Software 
-  as part of a paid product or service.
-• Forking & Independent Development: You may not create a derivative project 
-  or "fork" for the purpose of public redistribution or creating a competing 
-  version of the Software.
-• Sublicensing: You may not grant rights to others to use the Software 
-  under different terms.
+3. COMMERCIAL RESTRICTIONS (PAID LICENSE REQUIRED)
+  You are STRICTLY PROHIBITED from performing the following actions without a separate, paid
+  Commercial License from the Author:
 
-4. CONTRIBUTIONS & MAINTENANCE
-The Author remains the sole maintainer of the official repository. Any 
-contributed code (Pull Requests) merged into the project becomes the 
-intellectual property of Arik Levi, allowing for its continued 
-distribution under these terms.
+  • Redistribution: Selling, leasing, renting, or sublicensing the Software, in whole or in
+    part, to any third party.
+  
+  • White-Labeling: Modifying the Software and distributing it under a different name, brand,
+    or as part of a derivative work.
+  
+  • SaaS/Service Provision: Using the Software to provide a paid service (e.g., "Software as 
+    a Service") to external clients.
+  
+  • Bundling: Incorporating the Software or its logic into a commercial hardware or software
+    product sold to third parties.
 
-5. COMMERCIAL LICENSING
-Organizations wishing to use iniForge for commercial gain or within a 
-for-profit production environment must obtain a Commercial License. 
-Please contact the Author for inquiries.
+4. INTELLECTUAL PROPERTY & DERIVATIVE WORKS
+  Ownership: All title, ownership rights, and intellectual property rights in and to the 
+  Software remain exclusively with Arik Levi.
 
-6. DISCLAIMER OF WARRANTY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR 
-FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE AUTHOR BE LIABLE 
-FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+  Forks & Derivatives: While you may modify the code for your own Internal Use, you are
+  prohibited from publishing or redistributing "forks" or derivative versions of the 
+  Software without express written consent.
+
+  Contributions: Any code contributions (Pull Requests) merged into the official 
+  repository shall become the property of the Author to ensure unified ownership and
+  licensing capability.
+
+5. FEES FOR COMMERCIAL DISTRIBUTION
+  Entities seeking to engage in Commercial Distribution must enter into a separate agreement
+  with the Author. The standard rates for such authorization are:
+  • Base Integration Fee: $300 USD per year.
+  • End-User Royalty: $79 USD per authorized end-user/seat per year.
+
+6. TERMINATION
+  This license terminates automatically if you fail to comply with any of its terms. Upon
+  termination, you must cease all use and destroy all copies of the Software.
+
+7. DISCLAIMER OF WARRANTY
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHOR
+  BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+  OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE.
